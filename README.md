@@ -1,7 +1,7 @@
 # Full Stack Application to view my contacts along with searching, sorting and pagination function
 
 ## Components and Tools:
- - Backend Spring Boot Microservice: 
+ - Backend Spring Boot Microservice API for Data Handling
  - Vaadin UI Components 
  - Data Source Handling with MySql and CSV File Reader
  - Maven Build Tool
