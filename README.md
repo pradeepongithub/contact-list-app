@@ -1,4 +1,4 @@
-# Full Stack Application to view my contacts along with searching, sorting and pagination function
+# Full Stack Application To View Contacts with Searching, Sorting and Pagination Function
 
 ## Components and Tools:
  - Backend Spring Boot Microservice API for Data Handling
